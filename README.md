@@ -1,14 +1,10 @@
 # Picture_Recognition
 
-Description
+# Description
 
 This project retrieves thousands of photos of different labels such as "Eastern Bluebird", "Moutains" or "Forest". Then, a Convolutional Neural Network is trained to determine the category of a photo.
 
-Motivation
-
-This was made as an introduction to CNNs, deep learning, the PyTorch library, and data gathering.
-
-Technologies used
+# Technologies used
 
 PyTorch for the CNN model and training
 Flickr API for the pictures scraping
